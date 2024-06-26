@@ -164,12 +164,9 @@ Email: kshitijnishant09@gmail.com
 
 "National Aluminium Company Limited (NALCO) is a Schedule ‘A’ Navratna CPSE established on 7th January, 1981 .<n>It is one of the largest integrated Bauxite-Alumina-Aluminium- Power Complex in the Country .<n>Government of India holds 51.28% of paid up equity capital ."
 
-![Pre_Prediction_1](images/desktop1.png)     
-	
-![Post_Prediction_1](images/desktop2.png)
+<img src="images/desktop1.png" alt="Pre_Prediction_1" width="1492">
 
-<img src="images/desktop1.png" alt="Pre_Prediction_1" style="max-width: 80%;">
-<img src="images/desktop2.png" alt="Post_Prediction_1" style="max-width: 80%;">
+<img src="images/desktop2.png" alt="Post_Prediction_1" width="1492">
 
 ## 2. Below is a demonstration for mobile device:
 
@@ -187,10 +184,7 @@ Bridgerton was positively received for its direction, actors' performances, prod
 
 "Bridgerton is an American historical romance television series created by Chris Van Dusen for Netflix .<n>Based on the book series by Julia Quinn, it is Shondaland's first scripted show for Netflix ."
 
-![Pre_Prediction_2](images/mobile1.jpg | width=400)  ![Post_Prediction_2](images/mobile2.jpg)
-
-<img src="images/mobile1.jpg" alt="Pre_Prediction_2" width="400">
-<img src="images/mobile2.jpg" alt="Post_Prediction_2" style="max-width: 50%;">
+<img src="images/mobile1.jpg" alt="Pre_Prediction_2" width="400">  <img src="images/mobile2.jpg" alt="Post_Prediction_2" width="400">
 
 <b><i>We can see from the second images, respectively, that the whole paragraph has been summarized to a few lines with a good enough information. Hence demonstrating the model's efficiency in understanding the keywords and giving the user valuable insight about the subject in lesser lines in and under a minute time.</i></b>
 
