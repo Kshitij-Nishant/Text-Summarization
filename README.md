@@ -187,7 +187,7 @@ Bridgerton was positively received for its direction, actors' performances, prod
 
 "Bridgerton is an American historical romance television series created by Chris Van Dusen for Netflix .<n>Based on the book series by Julia Quinn, it is Shondaland's first scripted show for Netflix ."
 
-![Pre_Prediction_2](images/mobile1.jpg)  ![Post_Prediction_2](images/mobile2.jpg)
+![Pre_Prediction_2](images/mobile1.jpg | width=400)  ![Post_Prediction_2](images/mobile2.jpg)
 
 <img src="images/mobile1.jpg" alt="Pre_Prediction_2" style="max-width: 50%;">
 <img src="images/mobile2.jpg" alt="Post_Prediction_2" style="max-width: 50%;">
