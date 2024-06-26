@@ -164,7 +164,7 @@ Email: kshitijnishant09@gmail.com
 
 "National Aluminium Company Limited (NALCO) is a Schedule ‘A’ Navratna CPSE established on 7th January, 1981 .<n>It is one of the largest integrated Bauxite-Alumina-Aluminium- Power Complex in the Country .<n>Government of India holds 51.28% of paid up equity capital ."
 
-![Pre Prediction 1](images/desktop1.png>)     
+![Pre Prediction 1](images/desktop1.png)     
 	
 ![Post Prediction 1](images/desktop2.png)
 
