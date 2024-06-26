@@ -189,7 +189,7 @@ Bridgerton was positively received for its direction, actors' performances, prod
 
 ![Pre_Prediction_2](images/mobile1.jpg | width=400)  ![Post_Prediction_2](images/mobile2.jpg)
 
-<img src="images/mobile1.jpg" alt="Pre_Prediction_2" style="max-width: 50%;">
+<img src="images/mobile1.jpg" alt="Pre_Prediction_2" width="400">
 <img src="images/mobile2.jpg" alt="Post_Prediction_2" style="max-width: 50%;">
 
 <b><i>We can see from the second images, respectively, that the whole paragraph has been summarized to a few lines with a good enough information. Hence demonstrating the model's efficiency in understanding the keywords and giving the user valuable insight about the subject in lesser lines in and under a minute time.</i></b>
